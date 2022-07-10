@@ -46,7 +46,7 @@ You can change the dataset by adding or excluding the music's metadatas. In this
 }
 ```
 
-This is a part of the .csv file generated
+<br>This is a part of the .csv file generated
 ```csv
 artist_name,album_name,album_img,album_year,track_name,track_id,danceability,energy,key,loudness,mode,speechiness,acousticness,instrumentalness,liveness,valence,tempo,duration_ms,time_signature
 Cocteau Twins,Heaven or Las Vegas,https://i.scdn.co/image/ab67616d0000b2732be08c60dcb4b5608abbe61e,1990,Frou-frou Foxes in Midsummer Fires,9,0.405,0.619,10,-6.003,1,0.0264,0.00996,9.02e-05,0.212,0.243,160.074,338053,4
@@ -75,13 +75,6 @@ furnished to do so, subject to the following conditions:
 
 The above copyright notice and this permission notice shall be included in all
 copies or substantial portions of the Software.
-
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
 [links]: <> (Links used in this README.md file)
 [MIT]: https://choosealicense.com/licenses/mit/
