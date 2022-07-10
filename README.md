@@ -64,7 +64,7 @@ Cocteau Twins,Heaven or Las Vegas,https://i.scdn.co/image/ab67616d0000b2732be08c
 ## **License**
 The MIT License ([MIT])
 
-Copyright (c) 2021 Othneil Drew
+Copyright (c) 2022 Guilherme Mansur Ferreira dos Santos
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
